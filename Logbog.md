@@ -9,5 +9,5 @@
 Mødet i dag er hændt ovenpå første undervisningsgang i Æstetisk Programmering </br>
 Følgende er sket:
 * Gruppenavn
-* Opsat GitHub, Atom etc.
+* Opsat GitHub, Atom, P5.js library etc.
 * 
