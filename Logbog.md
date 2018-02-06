@@ -9,6 +9,6 @@
 Mødet i dag er hændt ovenpå første undervisningsgang i Æstetisk Programmering </br>
 Følgende er sket:
 * Gruppenavn
-* Opsat GitHub, Atom etc.
+* Opsat GitHub, p5.js,Atom etc.
 * Opsætning af denne logbog
 * Test af GitHub og dets funktioner
